@@ -1,12 +1,12 @@
-#laravel
+## laravel
 What's this repo about
 API
 Factory
 Test
 
-#Example Preview
+## --Example Preview
 
-## Postman test
+# Postman test
  <p>  http://127.0.0.1:8000/api/client/  <b>POST</b>
  Add new ,address</p>
 
