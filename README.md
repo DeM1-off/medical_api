@@ -24,11 +24,11 @@ Show the entire list of complaints from 1 user</p>
    title ,text, => table  complaint 
    and update in_work =1 </p>
 
-Requirements
+## Requirements
 PHP >= 7.4.0
 
 
-#Installation
+## Installation
 
 <p>Just clone the project to anywhere in your computer.  </p>
 <p>Run composer install.</p>
